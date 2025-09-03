@@ -1,0 +1,9 @@
+2025-09-03 14:22:10 | EventID=4625 | Failed login attempt | Username=jdoe_admin | IP=101.123.171.5
+2025-09-03 14:22:15 | EventID=4625 | Failed login attempt | Username=jdoe_admin | IP=101.123.171.5
+2025-09-03 14:22:22 | EventID=4625 | Failed login attempt | Username=jdoe_admin | IP=101.123.171.5
+2025-09-03 14:22:35 | EventID=4625 | Failed login attempt | Username=jdoe_admin | IP=101.123.171.5
+2025-09-03 14:22:40 | EventID=4625 | Failed login attempt | Username=jdoe_admin | IP=101.123.171.5
+2025-09-03 14:23:01 | EventID=4625 | Failed login attempt | Username=jdoe_admin | IP=101.123.171.5
+2025-09-03 14:30:00 | EventID=4624 | Successful login | Username=jdoe_admin | IP=101.123.171.5
+2025-09-03 14:31:12 | EventID=4672 | Privilege escalation attempt | Username=jdoe_admin | Process=cmd.exe
+2025-09-03 14:31:20 | EventID=1102 | Security log cleared | Username=jdoe_admin
