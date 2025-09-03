@@ -1,0 +1,5 @@
+Username: jdoe_admin
+Source IP: 101.123.171.5
+Destination IP: 186.20.20.27
+Location (GeoIP): Russia
+Time: 2025-09-03 14:30 UTC
