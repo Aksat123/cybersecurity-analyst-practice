@@ -1,0 +1,4 @@
+2025-09-03 14:25:31 Failed login attempt - user=jdoe_admin - IP=101.123.171.5
+2025-09-03 14:25:48 Failed login attempt - user=jdoe_admin - IP=101.123.171.5
+2025-09-03 14:26:04 Failed login attempt - user=jdoe_admin - IP=101.123.171.5
+2025-09-03 14:30:00 Successful login - user=jdoe_admin - IP=101.123.171.5
